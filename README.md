@@ -1,0 +1,1 @@
+Cleaned and analyzed a dataset of used cars, addressing missing values and preparing the data for predictive modeling. Developed a Linear Regression model to impute missing 'Engine_Size' values, enhancing the dataset's completeness and reliability.
